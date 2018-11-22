@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7664553-6ec6-4bbc-99a7-79e5485e37d5" name="Default Changelist" comment="" />
+    <list default="true" id="b7664553-6ec6-4bbc-99a7-79e5485e37d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20181120lxfxxx.py" beforeDir="false" afterPath="$PROJECT_DIR$/20181120lxfxxx.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +14,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/djangotest$20181113lxfpython.coverage" NAME="20181113lxfpython Coverage Results" MODIFIED="1542097293715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/djangotest$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1542697283736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/djangotest$20181120lxfxxx.coverage" NAME="20181120lxfxxx Coverage Results" MODIFIED="1542782336201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/djangotest$20181120lxfxxx.coverage" NAME="20181120lxfxxx Coverage Results" MODIFIED="1542858170703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/djangotest$20181108socket.coverage" NAME="20181108socket Coverage Results" MODIFIED="1541994569986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/djangotest$20181119lxfpython2.coverage" NAME="20181119lxfpython2 Coverage Results" MODIFIED="1542610709636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/djangotest$20181120lxf_fuxi.coverage" NAME="20181120lxf_fuxi Coverage Results" MODIFIED="1542716833620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -22,11 +25,12 @@
     <session id="1565978473">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="10" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -43,12 +47,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="10843" />
+          <entry key="py" value="11278" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="10843" />
+          <entry key="Python" value="11278" />
         </counts>
       </usages-collector>
     </session>
@@ -119,15 +123,15 @@
         <entry file="file://$PROJECT_DIR$/20181120lxfxxx.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="75" column="29" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
+              <caret line="112" column="11" selection-start-line="112" selection-start-column="11" selection-end-line="112" selection-end-column="12" />
               <folding>
-                <marker date="1542782262852" expanded="true" signature="35:40" ph="..." />
-                <marker date="1542782262852" expanded="true" signature="112:117" ph="..." />
-                <marker date="1542782262852" expanded="true" signature="141:146" ph="..." />
-                <marker date="1542782262852" expanded="true" signature="189:194" ph="..." />
-                <marker date="1542782262852" expanded="true" signature="554:559" ph="..." />
-                <marker date="1542782262852" expanded="true" signature="804:809" ph="..." />
-                <marker date="1542782262852" expanded="true" signature="1194:1556" ph="..." />
+                <marker date="1542858170680" expanded="true" signature="35:40" ph="..." />
+                <marker date="1542858170680" expanded="true" signature="112:117" ph="..." />
+                <marker date="1542858170680" expanded="true" signature="141:146" ph="..." />
+                <marker date="1542858170680" expanded="true" signature="189:194" ph="..." />
+                <marker date="1542858170680" expanded="true" signature="554:559" ph="..." />
+                <marker date="1542858170680" expanded="true" signature="804:809" ph="..." />
+                <marker date="1542858170680" expanded="true" signature="2077:2206" ph="..." />
               </folding>
             </state>
           </provider>
@@ -136,7 +140,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20181120lxf_fuxi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="618">
+            <state relative-caret-position="3930">
               <caret line="131" column="11" lean-forward="true" selection-start-line="131" selection-start-column="11" selection-end-line="131" selection-end-column="11" />
               <folding>
                 <marker date="1542720978837" expanded="true" signature="181:190" ph="..." />
@@ -154,6 +158,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -176,17 +183,19 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1040" />
     <option name="y" value="89" />
     <option name="width" value="1072" />
     <option name="height" value="1032" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,7 +207,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -361,10 +369,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49915683" visible="true" weight="0.052575108" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49915683" visible="true" weight="0.09603004" />
       <window_info id="Structure" order="1" sideWeight="0.50084317" side_tool="true" weight="0.1362661" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -375,7 +383,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50107294" side_tool="true" weight="0.39027148" />
       <window_info anchor="bottom" id="Terminal" order="11" />
@@ -454,6 +462,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
@@ -506,7 +521,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20181120lxf_fuxi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
+        <state relative-caret-position="3930">
           <caret line="131" column="11" lean-forward="true" selection-start-line="131" selection-start-column="11" selection-end-line="131" selection-end-column="11" />
           <folding>
             <marker date="1542720978837" expanded="true" signature="181:190" ph="..." />
@@ -515,25 +530,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20181120lxfxxx.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="75" column="29" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
+          <caret line="112" column="11" selection-start-line="112" selection-start-column="11" selection-end-line="112" selection-end-column="12" />
           <folding>
-            <marker date="1542782262852" expanded="true" signature="35:40" ph="..." />
-            <marker date="1542782262852" expanded="true" signature="112:117" ph="..." />
-            <marker date="1542782262852" expanded="true" signature="141:146" ph="..." />
-            <marker date="1542782262852" expanded="true" signature="189:194" ph="..." />
-            <marker date="1542782262852" expanded="true" signature="554:559" ph="..." />
-            <marker date="1542782262852" expanded="true" signature="804:809" ph="..." />
-            <marker date="1542782262852" expanded="true" signature="1194:1556" ph="..." />
+            <marker date="1542858170680" expanded="true" signature="35:40" ph="..." />
+            <marker date="1542858170680" expanded="true" signature="112:117" ph="..." />
+            <marker date="1542858170680" expanded="true" signature="141:146" ph="..." />
+            <marker date="1542858170680" expanded="true" signature="189:194" ph="..." />
+            <marker date="1542858170680" expanded="true" signature="554:559" ph="..." />
+            <marker date="1542858170680" expanded="true" signature="804:809" ph="..." />
+            <marker date="1542858170680" expanded="true" signature="2077:2206" ph="..." />
           </folding>
         </state>
       </provider>
