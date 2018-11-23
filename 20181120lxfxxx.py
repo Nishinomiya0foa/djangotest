@@ -123,3 +123,80 @@ class Student(object):
 
 s = Student('Chen', 0)
 print(s.show())
+
+import logging
+
+try:
+    print('xxx')
+    r = 10 / 0
+    print('r:',r)
+except ZeroDivisionError as e:
+    print('except:', e)
+# except ValueError as e:
+#     print('except:', e)
+# except Exception as e:
+#     logging.exception(e)
+
+finally:
+    print('finally,,,')
+print('END')
+
+for i in range(10):
+    print(i)
+    print('')
+
+from functools import reduce
+
+def str2num(s):
+    return int(s)
+
+def calc(exp):
+    ss = exp.split('+')
+    ns = map(str2num, ss)
+    return reduce(lambda acc, x: acc + x, ns)
+
+def main():
+    r = calc('100 + 200 + 345')
+    print('100 + 200 + 345 =', r)
+    r = calc('99 + 88 + 7')
+    print('99 + 88 + 7 =', r)
+
+main()
+
+# try:
+with open('C:\\Users\Administrator\Desktop\\1111.txt', 'r+', encoding='utf-8') as f:
+    f.write('Hello,world!\n')
+    for line in f.readlines():
+        print(line)
+# except Exception as e:
+#     # logging.exception(e)
+#     print(e)
+
+from io import StringIO
+f = StringIO()
+f.write('key')
+print(f.getvalue())
+
+import os
+print(os.name)
+print(os.environ)
+print(os.environ.get('PATH'))
+
+import pickle
+d= dict(name='Bob', age=25, score=78)
+pickle.dumps(d) # d序列化
+print(pickle.dumps(d))
+with open('C:\\Users\Administrator\Desktop\dump.txt', 'wb') as f:
+    # 序列化
+    pickle.dump(d, f)
+# 反序列化
+with open('C:\\Users\Administrator\Desktop\dump.txt', 'rb') as f1:
+    d1 = pickle.load(f1)
+print(d1)
+
+import json
+js1 = json.dumps(d)
+py1 = json.loads(js1)
+print(py1)
+
+
