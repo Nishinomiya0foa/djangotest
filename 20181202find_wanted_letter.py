@@ -1,6 +1,5 @@
 def get_wanted_letter(words):
-    # l = list(words)
-    # word = re.search(r'[a-zA-Z !?.]+', words)
+    """找到字符串中出现最多的字符"""
     b = []
     for a in words:
         if not a.isalpha():
