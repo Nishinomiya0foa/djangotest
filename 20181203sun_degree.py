@@ -13,5 +13,5 @@ def get_sun_degree(time:str):
 
 
 if __name__ == '__main__':
-    a = get_sun_degree('18:00')
+    a = get_sun_degree('17:59')
     print(a)

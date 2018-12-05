@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7664553-6ec6-4bbc-99a7-79e5485e37d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20181203check_all_elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20181203monkey_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20181203repeat_most_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20181203set_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20181203sun_degree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20181204warrior_fight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20181205Army_fight.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20181202find_wanted_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/20181202find_wanted_letter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20181125pic2word.py" beforeDir="false" afterPath="$PROJECT_DIR$/20181125pic2word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20181203sun_degree.py" beforeDir="false" afterPath="$PROJECT_DIR$/20181203sun_degree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,9 +26,10 @@
     <SUITE FILE_PATH="coverage/djangotest$eightqueen.coverage" NAME="eightqueen Coverage Results" MODIFIED="1542941151299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/djangotest$20181203monkey_type.coverage" NAME="20181203monkey_type Coverage Results" MODIFIED="1543806037546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/djangotest$20181119lxfpython2.coverage" NAME="20181119lxfpython2 Coverage Results" MODIFIED="1542610709636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/djangotest$20181203sun_degree.coverage" NAME="20181203sun_degree Coverage Results" MODIFIED="1543836614766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/djangotest$20181203sun_degree.coverage" NAME="20181203sun_degree Coverage Results" MODIFIED="1543911107265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/djangotest$20181202strip_single_word.coverage" NAME="20181202strip_single_word Coverage Results" MODIFIED="1543743648701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/djangotest$20181202find_wanted_letter.coverage" NAME="20181202find_wanted_letter Coverage Results" MODIFIED="1543742434519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/djangotest$20181204warrior_fight.coverage" NAME="20181204warrior_fight Coverage Results" MODIFIED="1543997516505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/djangotest$20181120lxf_fuxi.coverage" NAME="20181120lxf_fuxi Coverage Results" MODIFIED="1542716833620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/djangotest$20181127square.coverage" NAME="20181127square Coverage Results" MODIFIED="1543367656588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/djangotest$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1542697283736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -38,6 +38,7 @@
     <SUITE FILE_PATH="coverage/djangotest$20181127shoot_ball.coverage" NAME="20181127shoot_ball Coverage Results" MODIFIED="1543301046438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/djangotest$20181203set_code.coverage" NAME="20181203set_code Coverage Results" MODIFIED="1543834163016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/djangotest$20181127Armstrong.coverage" NAME="20181127Armstrong Coverage Results" MODIFIED="1543323226327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/djangotest$20181205Army_fight.coverage" NAME="20181205Army_fight Coverage Results" MODIFIED="1543997843210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/djangotest$20181126thread.coverage" NAME="20181126thread Coverage Results" MODIFIED="1543219918286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/djangotest$20181127TEST_3.coverage" NAME="20181127TEST_3 Coverage Results" MODIFIED="1543322033105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/djangotest$test.coverage" NAME="test Coverage Results" MODIFIED="1542697199638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -47,7 +48,7 @@
     <session id="1565978473">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.0" value="10" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
@@ -55,15 +56,15 @@
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.27" value="2" />
+          <entry key="project.open.time.27" value="3" />
           <entry key="project.open.time.28" value="2" />
-          <entry key="project.open.time.29" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.open.time.29" value="2" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="40" />
+          <entry key="py" value="43" />
           <entry key="pyi" value="1" />
           <entry key="txt" value="1" />
         </counts>
@@ -71,18 +72,18 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="40" />
+          <entry key="Python" value="43" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="20443" />
+          <entry key="py" value="22035" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="20443" />
+          <entry key="Python" value="22035" />
         </counts>
       </usages-collector>
     </session>
@@ -93,43 +94,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20181127Armstrong.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-              <folding>
-                <marker date="1543323226307" expanded="true" signature="47:52" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20181127square.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20181128password_check.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="79" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="79" />
-              <folding>
-                <marker date="1543394359978" expanded="true" signature="33:38" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20181202find_wanted_letter.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
               <folding>
                 <marker date="1543744889903" expanded="true" signature="397:399" ph="..." />
               </folding>
@@ -141,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/20181203monkey_type.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
               <folding>
                 <marker date="1543803239152" expanded="true" signature="101:102" ph="..." />
               </folding>
@@ -153,7 +121,7 @@
         <entry file="file://$PROJECT_DIR$/20181203repeat_most_word.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
-              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -162,7 +130,7 @@
         <entry file="file://$PROJECT_DIR$/20181203check_all_elements.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding>
                 <marker date="1543823144715" expanded="true" signature="35:40" ph="..." />
               </folding>
@@ -175,20 +143,40 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="1" selection-start-line="1" selection-end-line="11" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20181203sun_degree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20181204warrior_fight.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
               <folding>
-                <marker date="1543834162996" expanded="true" signature="159:673" ph="..." />
+                <marker date="1543997516481" expanded="true" signature="118:123" ph="..." />
+                <marker date="1543997516481" expanded="true" signature="274:766" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20181203sun_degree.py">
+        <entry file="file://$PROJECT_DIR$/20181205Army_fight.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="450">
+              <caret line="24" selection-start-line="24" selection-end-line="27" selection-end-column="30" />
               <folding>
-                <marker date="1543836614747" expanded="true" signature="122:515" ph="..." />
+                <marker date="1543997534001" expanded="true" signature="354:372" ph="..." />
+                <marker date="1543997534001" expanded="true" signature="498:503" ph="..." />
               </folding>
             </state>
           </provider>
@@ -230,7 +218,6 @@
         <option value="$PROJECT_DIR$/eightqueen.py" />
         <option value="$PROJECT_DIR$/20181123thread.py" />
         <option value="$PROJECT_DIR$/20181126thread.py" />
-        <option value="$PROJECT_DIR$/20181125pic2word.py" />
         <option value="$PROJECT_DIR$/20181127shoot_ball.py" />
         <option value="$PROJECT_DIR$/20181127black_fri.py" />
         <option value="$PROJECT_DIR$/20181127TEST_3.py" />
@@ -244,6 +231,9 @@
         <option value="$PROJECT_DIR$/20181203check_all_elements.py" />
         <option value="$PROJECT_DIR$/20181203set_code.py" />
         <option value="$PROJECT_DIR$/20181203sun_degree.py" />
+        <option value="$PROJECT_DIR$/20181125pic2word.py" />
+        <option value="$PROJECT_DIR$/20181204warrior_fight.py" />
+        <option value="$PROJECT_DIR$/20181205Army_fight.py" />
       </list>
     </option>
   </component>
@@ -253,7 +243,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="539" />
     <option name="y" value="86" />
     <option name="width" value="1072" />
@@ -265,7 +255,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -277,6 +266,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -298,7 +288,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.20181203sun_degree">
+  <component name="RunManager" selected="Python.20181205Army_fight">
     <configuration name="20181203check_all_elements" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="djangotest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -313,50 +303,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20181203check_all_elements.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="20181203monkey_type" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="djangotest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20181203monkey_type.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="20181203repeat_most_word" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="djangotest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20181203repeat_most_word.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -409,20 +355,64 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="20181204warrior_fight" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="djangotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20181204warrior_fight.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="20181205Army_fight" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="djangotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20181205Army_fight.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.20181203monkey_type" />
-      <item itemvalue="Python.20181203repeat_most_word" />
       <item itemvalue="Python.20181203check_all_elements" />
       <item itemvalue="Python.20181203set_code" />
       <item itemvalue="Python.20181203sun_degree" />
+      <item itemvalue="Python.20181204warrior_fight" />
+      <item itemvalue="Python.20181205Army_fight" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.20181205Army_fight" />
+        <item itemvalue="Python.20181204warrior_fight" />
         <item itemvalue="Python.20181203sun_degree" />
         <item itemvalue="Python.20181203set_code" />
         <item itemvalue="Python.20181203check_all_elements" />
-        <item itemvalue="Python.20181203repeat_most_word" />
-        <item itemvalue="Python.20181203monkey_type" />
       </list>
     </recent_temporary>
   </component>
@@ -440,14 +430,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4952919" visible="true" weight="0.14109442" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4952919" visible="true" weight="0.1443133" />
       <window_info id="Structure" order="1" sideWeight="0.5047081" side_tool="true" weight="0.14109442" />
       <window_info id="Favorites" order="2" sideWeight="0.5027933" side_tool="true" weight="0.098175965" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" x="28" y="342" width="1864" height="347" id="Run" order="2" sideWeight="0.49839056" weight="0.3970588" />
+      <window_info active="true" anchor="bottom" x="28" y="342" width="1864" height="347" id="Run" order="2" sideWeight="0.49839056" visible="true" weight="0.3970588" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39932126" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -457,7 +448,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50160944" side_tool="true" weight="0.3970588" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32918552" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32918552" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -591,13 +582,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20181125pic2word.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-390">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3450">
@@ -623,11 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2820">
           <caret line="97" selection-start-line="97" selection-end-line="97" selection-end-column="26" />
-          <folding>
-            <element signature="e#7#48#0" expanded="true" />
-            <marker date="1543137150221" expanded="true" signature="1109:1116" ph="..." />
-            <marker date="1543137150221" expanded="true" signature="2004:2009" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -635,9 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
           <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-          <folding>
-            <element signature="e#25#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -659,11 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1740">
           <caret line="58" column="20" selection-start-line="58" selection-end-line="59" />
-          <folding>
-            <marker date="1543320231598" expanded="true" signature="598:2346" ph="..." />
-            <marker date="1543320231598" expanded="true" signature="773:881" ph="..." />
-            <marker date="1543320231598" expanded="true" signature="2346:2348" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -671,9 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding>
-            <marker date="1543323226307" expanded="true" signature="47:52" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -681,16 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20181202find_wanted_letter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding>
-            <marker date="1543744889903" expanded="true" signature="397:399" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -704,19 +662,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20181202strip_single_word.py">
+    <entry file="file://$PROJECT_DIR$/20181202find_wanted_letter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20181203set_code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" selection-start-line="1" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="180">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
           <folding>
-            <marker date="1543834162996" expanded="true" signature="159:673" ph="..." />
+            <marker date="1543744889903" expanded="true" signature="397:399" ph="..." />
           </folding>
         </state>
       </provider>
@@ -724,7 +675,7 @@
     <entry file="file://$PROJECT_DIR$/20181203monkey_type.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
           <folding>
             <marker date="1543803239152" expanded="true" signature="101:102" ph="..." />
           </folding>
@@ -734,26 +685,69 @@
     <entry file="file://$PROJECT_DIR$/20181203repeat_most_word.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
-          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20181203check_all_elements.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding>
             <marker date="1543823144715" expanded="true" signature="35:40" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/20181203set_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20181202strip_single_word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/20181203sun_degree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="417">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20181125pic2word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
-            <marker date="1543836614747" expanded="true" signature="122:515" ph="..." />
+            <element signature="e#14#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20181204warrior_fight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
+          <folding>
+            <marker date="1543997516481" expanded="true" signature="118:123" ph="..." />
+            <marker date="1543997516481" expanded="true" signature="274:766" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20181205Army_fight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="24" selection-start-line="24" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <marker date="1543997534001" expanded="true" signature="354:372" ph="..." />
+            <marker date="1543997534001" expanded="true" signature="498:503" ph="..." />
           </folding>
         </state>
       </provider>
